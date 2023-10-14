@@ -1,0 +1,4 @@
+SAXSX
+COM3
+9600
+Txitens
